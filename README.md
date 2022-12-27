@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my department's club's website (CCE Club).
-- 🌱 I’m currently learning **Game Developement**
+- 🌱 I’m currently learning **Game Developement** and **Machine Learning**
 - 👯 I sometimes collaborate on open source projects when I can.
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
